@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Red River .NET User Group serves developers in and around the Shreveport-Bossier area. We meet the 3rd Wednesday of every month at the LSUS Technology Center. We will have free food and door prizes at each meeting, as well as a presentation on a topic relevant to .NET developers.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+If you are interested in speaking at the RRDNUG, send an email to <rrdnug@gmail.com> or contact us on Twitter [@rrdnug](http://twitter.com/rrdnug).

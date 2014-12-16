@@ -5,9 +5,10 @@ description: > # this means to ignore newlines until "baseurl:"
   The Red River .NET User Group meets the third Wednesday of each
   month at the LSUS Technology Center.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.rrdnug.com" # the base hostname & protocol for your site
+url: "http://rrdnug.com" # the base hostname & protocol for your site
 twitter_username: rrdnug
-github_username:  RedRiverDNUG
+facebook_page: "https://www.facebook.com/groups/21079809893/"
+#github_username:  RedRiverDNUG
 
 # Build settings
 markdown: kramdown

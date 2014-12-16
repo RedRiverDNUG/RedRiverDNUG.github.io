@@ -4,18 +4,16 @@ title: Sponsors
 permalink: /sponsors/
 ---
 
+[Praeses](http://www.praeses.com)
+
 [Infragistics](http://www.infragistics.com/)
 
 [Telerik](http://www.telerik.com/)
 
-[DiscountASP](http://www.discountasp.net/)
-
-[SQL Accessories](http://www.sqlaccessories.com/)
-
 [JetBrains](http://www.jetbrains.com/)
 
-[Nevron](http://www.nevron.com/)
-
-[Wrox Press](http://www.wrox.com/)
-
 [Pluralsight](http://pluralsight.com/)
+
+[Ben Watson](http://www.writinghighperf.net/)
+
+If you are interested in speaking at the RRDNUG, send an email to <rrdnug@gmail.com> or contact us on Twitter [@rrdnug](http://twitter.com/rrdnug).
