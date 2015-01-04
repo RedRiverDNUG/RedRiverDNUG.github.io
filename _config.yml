@@ -8,6 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://rrdnug.com" # the base hostname & protocol for your site
 twitter_username: rrdnug
 facebook_page: "https://www.facebook.com/groups/21079809893/"
+mailing_list: "http://eepurl.com/baEACn"
 #github_username:  RedRiverDNUG
 
 # Build settings
