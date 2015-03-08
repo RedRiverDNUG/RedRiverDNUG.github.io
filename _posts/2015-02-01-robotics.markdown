@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "February Meeting: Robotics in your local schools and for fun and education"
+date:   2015-02-01 12:00:00
+categories: meeting february 2015 robotics
+---
+Joe Couvillion has been involved in local robotics for 5 years. Mostly centered around the Southwood High School program. He has also assisted in competition planning for the Regional Autonomous Robotics Competition (RARC) a Cyber Innovation effort to increase STEM in local schools. Before that he worked at Microsoft as a Software Developer Engineer/Test.
+
+There are many school programs in the Bossier/Caddo area for robotics. Joe will describe them and go over the technologies involved in each one.
+
+[http://www.nicerc.org/events/rarc/](http://www.nicerc.org/events/rarc/)
+
+[http://www.usfirst.org/](http://www.usfirst.org/)
+
+[http://best.eng.auburn.edu/](http://best.eng.auburn.edu/)
+
+[http://www.vexrobotics.com/competition/](http://www.vexrobotics.com/competition/)
+
+[https://www.facebook.com/pages/Southwood-Robotics/241145872689471](https://www.facebook.com/pages/Southwood-Robotics/241145872689471)
+
+RSVP on [Facebook](https://www.facebook.com/events/1543650012563532/)
