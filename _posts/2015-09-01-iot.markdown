@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "September Meeting - .NET and IoT"
+date:   2015-09-01 12:00:00
+categories: meeting 2015 september iot rasperrypi netduino
+---
+Joe Couvillion has been involved in local robotics for 5 years. Mostly centered around the Southwood High School program. He has also assisted in competition planning for the Regional Autonomous Robotics Competition (RARC) a Cyber Innovation effort to increase STEM in local schools. Before that he worked at Microsoft as a Software Developer Engineer/Test.
+
+Joe will be giving a presentation on .NET and the Internet of Things and will have a Raspberry Pi and Netduino on hand.
+
+RSVP on [Facebook](https://www.facebook.com/events/921517431255486/)
