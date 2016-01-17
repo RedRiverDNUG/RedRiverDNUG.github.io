@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "January Meeting - DNX"
+date:   2016-01-01 12:00:00
+categories: meeting 2016 january dnx
+---
+Steven is the Development Manager for Praeses's Business Technologies Consulting Group. He cut his development teeth on ASP.NET in the .NET 1.1 days and has been developing enterprise web applications and data integrations between systems for over a decade.
+
+Steven is going to be talking about the next generation of .NET development. The .NET Framework is now a cross platform, open source development stack from Microsoft. We'll take a look at the what all this means as it relates to the existing .NET stack and talk about some of the new ASP.NET5 and MVC6 developments that are ongoing.
+
+RSVP on [Facebook](https://www.facebook.com/events/173353736354637/)
